@@ -39,7 +39,7 @@ path.py==11.5.2
 pathlib2==2.3.4
 pathvalidate==0.29.0
 pluggy==0.13.0
-py==1.8.0
+py==1.10.0
 py4j==0.10.7
 pyparsing==2.4.2
 pyrsistent==0.15.4
