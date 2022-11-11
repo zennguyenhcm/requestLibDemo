@@ -44,7 +44,7 @@ py4j==0.10.7
 pyparsing==2.4.2
 pyrsistent==0.15.4
 PySimpleGUI==4.4.1
-pyspark==2.4.4
+pyspark==3.2.2
 pytablereader==0.26.1
 pytest==4.6.5
 pytz==2019.2
